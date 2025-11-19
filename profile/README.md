@@ -1,7 +1,7 @@
 # Welcome 🙌
 
 ### About Us 👥
-Welcome to the GitHub organization of the [Chair of Electrical Energy Storage Technology](https://www.epe.ed.tum.de/en/ees/homepage/) at the Technical University of Munich (TUM). We deal with electrical energy storages, mainly with rechargeable batteries. Along with lithium ion batteries, also classical systems such as lead batteries and alkaline cells play an important part. Furthermore, researches are conducted into future systems, for example: metal-air, redox flow and high-temperature batteries.
+Welcome to the GitHub organization of the [Chair of Electrical Energy Storage Technology](https://www.epe.ed.tum.de/en/ees/homepage/) at the Technical University of Munich (TUM). We deal with electrical energy storages, mainly with rechargeable batteries. Along with lithium ion batteries, also systems such as sodium ion and solid state batteries play an important part.
 
 <div align="center"><img src="../doc/tum-ees.png" width="800"/></div>
 
